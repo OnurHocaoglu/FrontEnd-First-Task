@@ -1,4 +1,4 @@
-# Kodluyoruz Ilk Repo
+# Front End First Task
 
 -----------------------------------------------------------------------------------------------
 Front End Eğitiminde oluşturduğumuz ilk ödev. İçerisinde bir adet img klasörü, README dosyası, bir adet de index.html barındırıyor.
